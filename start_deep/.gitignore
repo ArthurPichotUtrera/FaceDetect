@@ -1,0 +1,6 @@
+*.solverstate
+*.caffemodel
+test*
+train*
+doc
+*.txt
